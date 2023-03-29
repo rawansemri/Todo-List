@@ -1,0 +1,29 @@
+.AddTodoContainer {
+  background-color: rgb(187, 213, 213);
+  /* rgb(187, 213, 213) */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2%;
+}
+
+.Todo {
+  width: 50%;
+  text-align: center;
+  margin: 2%;
+  padding: 1%;
+  border-radius: 18px;
+  border: 2px solid #d7a4a4;
+  
+
+}
+
+.AddBtn {
+  width: 15%;
+  margin: 2%;
+  padding: 1%;
+  border-radius: 18px;
+  color: white;
+  border: 2px solid rgb(187, 213, 213);
+
+}

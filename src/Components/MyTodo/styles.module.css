@@ -1,0 +1,20 @@
+.MyTodoContainer {
+  border: 4px solid #d7a4a4;
+  border-radius: 18px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.flexContainer {
+  display: flex;
+  gap: 2%;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2% 2%;
+}
+
+.myTasks{
+  color:  #d7a4a4;
+  border-bottom: 3px solid #d7a4a4;
+  margin: 1% 40%;
+}
